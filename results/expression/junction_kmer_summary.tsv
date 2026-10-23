@@ -1,0 +1,5 @@
+source	biological_replicate	total_reads_scanned	junction	exact_24nt_hits	hits_per_million_reads	unique_read_names	unique_read_sequences
+ENCFF001JPX	1	37696007	shared_promoter_exon1_to_exon2	226	5.995329956300146	226	72
+ENCFF001JPX	1	37696007	alyreffm1_202_exon2_to_exon3	16	0.4244481384991254	16	11
+ENCFF001JPZ	2	41120376	shared_promoter_exon1_to_exon2	245	5.958116725391811	245	87
+ENCFF001JPZ	2	41120376	alyreffm1_202_exon2_to_exon3	20	0.4863768755421886	20	17

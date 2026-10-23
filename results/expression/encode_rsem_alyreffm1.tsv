@@ -1,0 +1,43 @@
+experiment	file_accession	sample_group	replicate	layout	transcript_id	expected_count	TPM	FPKM	IsoPct
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000127775.7	284.7	7.88	6.48	7.98
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000135245.2	326.33	10.62	8.73	10.76
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000152491.3	0.0	0.0	0.0	0.0
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000187659.6	740.71	76.03	62.47	77.03
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000187892.7	180.42	2.65	2.18	2.69
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000188605.1	39.0	1.28	1.06	1.3
+ENCSR000BYW	ENCFF802BII	adult_2m_deep	biological_rep2	76-bp paired-end	ENSMUST00000233331.1	16.68	0.24	0.2	0.24
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000127775.7	195.18	5.6	4.62	5.43
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000135245.2	285.88	9.64	7.95	9.33
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000152491.3	0.0	0.0	0.0	0.0
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000187659.6	799.24	83.69	69.04	81.02
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000187892.7	161.39	2.47	2.04	2.39
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000188605.1	50.91	1.74	1.43	1.68
+ENCSR000BYW	ENCFF957IRE	adult_2m_deep	biological_rep1	76-bp paired-end	ENSMUST00000233331.1	10.4	0.15	0.13	0.15
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000127775.7	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000135245.2	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000152491.3	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000187659.6	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000187892.7	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000188605.1	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF183XSN	adult_2m_shallow	biological_rep1	36-bp single-end	ENSMUST00000233331.1	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000127775.7	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000135245.2	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000152491.3	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000187659.6	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000187892.7	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000188605.1	0.0	0.0	0.0	0.0
+ENCSR000CHH	ENCFF448JGR	adult_2m_shallow	biological_rep2	36-bp single-end	ENSMUST00000233331.1	0.0	0.0	0.0	0.0
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000127775.7	77.75	6.4	4.38	13.75
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000135245.2	158.47	15.26	10.43	32.77
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000152491.3	0.0	0.0	0.0	0.0
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000187659.6	73.75	20.61	14.09	44.27
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000187892.7	46.27	2.06	1.41	4.42
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000188605.1	20.65	2.01	1.37	4.32
+ENCSR266ESZ	ENCFF392NZM	adult_10w_deep	technical_rep2	paired-end	ENSMUST00000233331.1	5.12	0.22	0.15	0.47
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000127775.7	138.63	7.18	5.07	41.57
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000135245.2	132.59	8.05	5.68	46.56
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000152491.3	6.42	0.28	0.2	1.62
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000187659.6	0.0	0.0	0.0	0.0
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000187892.7	10.09	0.28	0.2	1.63
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000188605.1	20.4	1.25	0.88	7.25
+ENCSR266ESZ	ENCFF926TOA	adult_10w_deep	technical_rep1	paired-end	ENSMUST00000233331.1	8.86	0.24	0.17	1.38

@@ -1,0 +1,10 @@
+species_slug	scientific_name	tribe	taxid	lgsn_gene_id	assembly_accession	sequence_accession	lgsn_start_1based	lgsn_end_1based	lgsn_strand	region_start_1based	region_end_1based
+mus_musculus	Mus musculus	Murini	10090	266744	GCF_000001635.27	NC_000067.7	31215362	31243806	+	31155362	31303806
+mus_caroli	Mus caroli	Murini	10089	110299968	GCF_978045245.1	NW_028227256.1	28133649	28162161	+	28073649	28222161
+mus_pahari	Mus pahari	Murini	10093	110322471	GCF_900095145.1	NC_034594.1	12161906	12187776	+	12101906	12247776
+mastomys_coucha	Mastomys coucha	Praomyini	35658	116088266	GCF_008632895.1	NW_022196896.1	59161855	59188086	+	59101855	59248086
+apodemus_sylvaticus	Apodemus sylvaticus	Apodemini	10129	127692005	GCF_947179515.1	NC_067480.1	100734770	100770124	+	100674770	100830124
+arvicanthis_niloticus	Arvicanthis niloticus	Arvicanthini	61156	117722338	GCF_011762505.2	NC_047674.1	36243638	36268785	-	36183638	36328785
+grammomys_surdaster	Grammomys surdaster	Arvicanthini	491861	114627623	GCF_004785775.1	NW_021604696.1	1851931	1878712	+	1791931	1938712
+rattus_rattus	Rattus rattus	Rattini	10117	116898468	GCF_011064425.1	NC_046157.1	107902350	107916554	+	107842350	107976554
+rattus_norvegicus	Rattus norvegicus	Rattini	10116	316304	GCF_036323735.1	NC_086027.1	40912398	40943955	+	40852398	41003955

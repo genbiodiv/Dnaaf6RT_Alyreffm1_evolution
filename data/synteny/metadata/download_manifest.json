@@ -1,0 +1,8 @@
+{
+  "retrieval_date_utc": "2026-08-29",
+  "species_count": 9,
+  "anchor_gene": "Lgsn",
+  "window": "60 kb on each side of the pinned NCBI Lgsn gene interval",
+  "gene_summary_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&retmode=json&id=266744%2C110299968%2C110322471%2C116088266%2C127692005%2C117722338%2C114627623%2C116898468%2C316304",
+  "gene_summary_sha256": "001f872cc8d0a0effada2a197d9c1c6b1744e058ae511c7ac57d147334ff8f65"
+}

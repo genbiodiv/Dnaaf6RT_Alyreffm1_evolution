@@ -1,0 +1,14 @@
+{
+  "species": 9,
+  "present": 5,
+  "absent": 4,
+  "ambiguous": 0,
+  "all_sites_without_N": true,
+  "all_anchors_collinear": true,
+  "mouse_tsd": "AAAAATGATGCTTA",
+  "thresholds": {
+    "presence_min_insertion_coverage": 0.85,
+    "presence_min_identity": 0.75,
+    "absence_max_site_gap_bp": 250
+  }
+}

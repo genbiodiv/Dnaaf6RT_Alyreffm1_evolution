@@ -1,0 +1,11 @@
+transcript_id	display_name	biotype	exon_count	five_prime_exon	uses_insertion_derived_exon	has_translation	translation_length_aa
+ENSMUST00000127775	Alyreffm1-201	protein_coding_CDS_not_defined	3	chr1:31261557-31261738(-)	yes	no	
+ENSMUST00000135245	Alyreffm1-202	protein_coding_CDS_not_defined	3	chr1:31261557-31261765(-)	yes	no	
+ENSMUST00000152491	Alyreffm1-203	protein_coding	2	chr1:31038900-31038985(-)	no	yes	241
+ENSMUST00000187659	Alyreffm1-204	protein_coding_CDS_not_defined	3	chr1:31261557-31261709(-)	yes	no	
+ENSMUST00000187892	Alyreffm1-205	protein_coding	6	chr1:31261557-31261692(-)	yes	yes	241
+ENSMUST00000188605	Alyreffm1-206	protein_coding_CDS_not_defined	4	chr1:31135453-31135535(-)	no	no	
+ENSMUST00000233331	Alyreffm1-207	protein_coding	5	chr1:31261557-31261692(-)	yes	yes	241
+ENSMUST00000249069	Alyreffm1-208	protein_coding_CDS_not_defined	5	chr1:31135453-31135602(-)	no	no	
+ENSMUST00000249070	Alyreffm1-209	protein_coding_CDS_not_defined	6	chr1:31135453-31135611(-)	no	no	
+ENSMUST00000249071	Alyreffm1-210	protein_coding_CDS_not_defined	5	chr1:31261557-31261727(-)	yes	no	

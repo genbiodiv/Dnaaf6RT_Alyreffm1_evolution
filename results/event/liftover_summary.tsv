@@ -1,0 +1,10 @@
+feature	mm39_interval_0based_halfopen	status	rn7_interval_0based_halfopen	rn7_strand	liftOver_note
+left_flank	chr1:31261000-31261458	mapped	chr9:33484519-33484983	+	
+left_tsd	chr1:31261458-31261472	unmapped			Partially deleted in new
+candidate_insertion	chr1:31261472-31263369	unmapped			Duplicated in new
+right_tsd	chr1:31263369-31263383	mapped	chr9:33484984-33484997	+	
+right_flank	chr1:31263383-31263800	mapped	chr9:33484997-33485405	+	
+Alyreffm1_202_exon3	chr1:31242011-31242469	mapped	chr9:33446125-33446584	-	
+Alyreffm1_202_exon2	chr1:31243332-31243554	mapped	chr9:33447447-33447669	-	
+Alyreffm1_202_exon1	chr1:31261556-31261765	mapped	chrX:103724058-103724268	-	
+Dnaaf6rt	chr1:31261919-31263368	unmapped			Duplicated in new

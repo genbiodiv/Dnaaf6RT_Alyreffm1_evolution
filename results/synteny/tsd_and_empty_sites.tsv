@@ -1,0 +1,10 @@
+species_slug	scientific_name	state	left_tsd_or_empty_site	right_tsd_or_best_motif	tsd_identity	tsd_identity_display	empty_site_length	edit_distance_to_mouse_tsd
+mus_musculus	Mus musculus	present	AAAAATGATGCTTA	AAAAATGATGCTTA	1.000000	100.0%		
+mus_caroli	Mus caroli	present	TAAAATGATGCTTA	AAAAATGATGCTTA	0.928571	92.9%		
+mus_pahari	Mus pahari	present	no resuelta	AGAAATGATGCTTA		límite parcial		
+mastomys_coucha	Mastomys coucha	present	AAAAATGATGCTTA	AAAATTGATGCTTA	0.928571	92.9%		
+apodemus_sylvaticus	Apodemus sylvaticus	present	AAAAATGATGCTTA	AATAATGATGCTTA	0.928571	92.9%		
+arvicanthis_niloticus	Arvicanthis niloticus	absent	TAAAATGATGTTTA	TAAAATGATGTTTA	0.857143	85.7% vs. TSD de ratón	14	2
+grammomys_surdaster	Grammomys surdaster	absent	ATTTTTTAACATGATGTTTA	TAACATGATGTTTA	0.785714	78.6% vs. TSD de ratón	20	3
+rattus_rattus	Rattus rattus	absent	AGTATTCAAAATGATGTTTA	CAAAATGATGTTTA	0.857143	85.7% vs. TSD de ratón	20	2
+rattus_norvegicus	Rattus norvegicus	absent	AGCATTCAAAATGATGTTTA	CAAAATGATGTTTA	0.857143	85.7% vs. TSD de ratón	20	2

@@ -1,0 +1,16 @@
+check	status	detail
+exact_target_site_duplication	PASS	14-bp sequence AAAAATGATGCTTA recovered from GRCm39
+processed_copy_identity	PASS	657-nt CDS comparison; 93.15% identity
+source_homologous_block	PASS	452 aligned ungapped bases; 80.31% identity
+transcript_models	PASS	10 current Ensembl models; 6 use the insertion-derived first exon
+mouse_rat_liftover	PASS	recipient exons map to rat chr9; the insertion lacks an orthologous chr9 liftOver mapping; first exon maps to rat chrX
+nine_species_state_calls	PASS	9 loci: 5 present, 4 absent, 0 ambiguous
+phylogenetic_age_bracket	PASS	physical insertion bracketed between 11.70 and 10.84 Ma
+isoform_specific_short_reads	PASS	16 and 20 exact -202-specific junction reads in two biological replicates
+long_read_limit	PASS	129,471 FLNC reads screened; 3 shared-junction reads; no full -202 junction chain
+candidate_orf_boundary	PASS	127-aa ORF reconstructed; translation remains unproven
+no_manuscript_figure_assets	PASS	no PPTX/SVG/AI/EPS or figure-source directories
+python_source_parses	PASS	8 Python scripts parsed with ast
+no_simulated_data_code	PASS	no random-data imports or simulation/mock-data calls
+portable_paths	PASS	no workspace- or user-specific absolute paths
+diagnostic_plots	PASS	six evidence/QC plots regenerated as complete, CRC-valid PNG files

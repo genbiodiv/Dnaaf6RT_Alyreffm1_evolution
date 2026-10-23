@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or its derived data, please cite the repository release and the associated manuscript."
+title: "Reproducible reconstruction of the Dnaaf6rt–Alyreffm1 retroposition event"
+type: software
+authors:
+  - family-names: Neme
+    given-names: Rafik
+version: 1.2.0
+date-released: 2026-10-23
+abstract: >-
+  Compact code, accessioned public inputs, derived tables and diagnostic plots
+  used to reconstruct a murine retroposition event that produced Dnaaf6rt and
+  altered Alyreffm1 transcript architecture. Manuscript figure assets are not
+  part of this release.
+keywords:
+  - retroposition
+  - retrogene
+  - transcript architecture
+  - regulatory evolution
+  - Murinae
+

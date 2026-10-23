@@ -1,0 +1,9 @@
+feature	accession	start_1based	end_1based	strand	description
+left_flank_5kb	NC_000067.7	31256459	31261458	+	Immediate 5 kb flank before the left TSD
+left_tsd	NC_000067.7	31261459	31261472	+	Left copy of the 14 bp target-site duplication
+insertion	NC_000067.7	31261473	31263369	+	Candidate retroposition insertion, excluding the TSD copies
+copied_regulatory_block	NC_000067.7	31261483	31261938	+	5-prime source-derived block spanning the bidirectional regulatory segment
+dnaaf6rt	NC_000067.7	31261920	31263368	+	Annotated Dnaaf6rt interval
+right_tsd	NC_000067.7	31263370	31263383	+	Right copy of the 14 bp target-site duplication
+right_flank_5kb	NC_000067.7	31263384	31268383	+	Immediate 5 kb flank after the right TSD
+site_with_5kb_flanks	NC_000067.7	31256459	31268383	+	Insertion site plus both 5 kb flanks and both TSD copies

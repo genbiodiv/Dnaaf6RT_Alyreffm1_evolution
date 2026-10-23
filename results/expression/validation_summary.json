@@ -1,0 +1,39 @@
+{
+  "current_transcripts": 10,
+  "transcripts_using_inserted_first_exon": 6,
+  "alyreffm1_202_unique_junction_mm39": "chr1:31242469-31243333(-)",
+  "fantom5_testis_samples": 11,
+  "testis_directional_cage_pearson_r": 0.9931205449615665,
+  "alyreffm1_n20_over_n10_fold_change": 103.0989604805597,
+  "alyreffm1_adult_tpm": 181.5091262563096,
+  "dnaaf6rt_adult_tpm": 49.604978604208796,
+  "adult_biological_replicates_with_exact_202_junction_reads": 2,
+  "exact_202_junction_reads_by_replicate": {
+    "ENCFF001JPX": 16,
+    "ENCFF001JPZ": 20
+  },
+  "rsem_detected_202_samples": 4,
+  "rsem_202_tpm_range_among_detected": [
+    8.05,
+    15.26
+  ],
+  "pacbio_flnc_reads_screened": 129471,
+  "pacbio_reads_with_shared_promoter_junction": 3,
+  "pacbio_reads_with_unique_202_junction": 0,
+  "pacbio_transcript_models_at_locus": 2,
+  "candidate_orf_length_aa": 127,
+  "candidate_orf_start_nt_1based": 84,
+  "candidate_orf_stop_codon_start_nt_1based": 465,
+  "candidate_orf_kozak_minus3": "A",
+  "candidate_orf_kozak_plus4": "C",
+  "riboseq_frame0_fraction_all_reads": {
+    "adult_WT_rep1": 0.38408304498269896,
+    "adult_WT_rep2": 0.41025641025641024
+  },
+  "interpretation": {
+    "promoter_activity": "confirmed",
+    "alyreffm1_202_expression_in_adult_testis": "confirmed_by_exact_unique_junction_reads_in_two_biological_replicates",
+    "full_length_alyreffm1_202_long_read": "not_recovered_in_GSE137490",
+    "candidate_ORF_translation": "suggestive_ribosome_occupancy_not_definitive_protein_evidence"
+  }
+}

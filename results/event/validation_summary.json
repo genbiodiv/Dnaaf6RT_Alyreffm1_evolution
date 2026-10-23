@@ -1,0 +1,10 @@
+{
+  "target_site_duplication": "AAAAATGATGCTTA",
+  "target_site_duplication_length_bp": 14,
+  "parent_vs_retrogene_cds_identity_pct": 93.15,
+  "source_block_identity_ungapped_pct": 80.31,
+  "alyreffm1_transcript_models": 10,
+  "models_using_insertion_derived_first_exon": 6,
+  "liftOver_mapped_features": 6,
+  "liftOver_unmapped_features": 3
+}

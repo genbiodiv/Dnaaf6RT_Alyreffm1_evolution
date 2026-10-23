@@ -1,0 +1,33 @@
+{
+  "analysis_date": "2026-08-29",
+  "python": "3.12.14",
+  "packages": {
+    "biopython": "1.88",
+    "edlib": "1.3.9.post1",
+    "mappy": "2.30",
+    "matplotlib": "3.10.5"
+  },
+  "script_sha256": "76fe92e55140623bfad3fd9587ef64e1eb4809a740afa13580e9f068b03c9757",
+  "config_sha256": {
+    "species.tsv": "0a25348e24a3d172cb1e0aa8e156da36ddc039c050a6703bd4c0e7bb97791351",
+    "mouse_features.tsv": "9f6c58ce59934360e2c63a36810fa0fab70078d5c2a71aa307de624e8def99fd"
+  },
+  "coordinate_conventions": {
+    "internal": "0-based half-open",
+    "reported_genomic": "1-based inclusive"
+  },
+  "validation": {
+    "species": 9,
+    "present": 5,
+    "absent": 4,
+    "ambiguous": 0,
+    "all_sites_without_N": true,
+    "all_anchors_collinear": true,
+    "mouse_tsd": "AAAAATGATGCTTA",
+    "thresholds": {
+      "presence_min_insertion_coverage": 0.85,
+      "presence_min_identity": 0.75,
+      "absence_max_site_gap_bp": 250
+    }
+  }
+}
