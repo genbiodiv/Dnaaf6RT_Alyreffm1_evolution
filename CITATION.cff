@@ -6,6 +6,8 @@ authors:
   - family-names: Neme
     given-names: Rafik
 version: 1.2.0
+license: MIT
+repository-code: "https://github.com/genbiodiv/Dnaaf6RT_Alyreffm1_evolution"
 date-released: 2026-10-23
 abstract: >-
   Compact code, accessioned public inputs, derived tables and diagnostic plots
